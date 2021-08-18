@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddcrane/jest-another-RPG.git"
+  },
+  "author": "David Crane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddcrane/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/ddcrane/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
